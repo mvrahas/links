@@ -12,4 +12,4 @@ A React Native mobile app for tracking your golf game. Every round, hole, and sh
 
 ## Preview
 
-![Map](https://github.com/mvrahas/gwo-foto/blob/main/assets/preview.png)
+![Map](https://github.com/mvrahas/links/blob/main/assets/preview.png)
