@@ -2,7 +2,7 @@
 
 ## About
 
-A React Native mobile app for tracking your golf game. Every round, hole, and shot can be easily recorded in the app on GPS maps. There is also a premium tier which includes useful reports and summaries that golfers can use to understand their game in amazing detail.
+A React Native mobile app for tracking your golf game. Every round, hole, and shot can be easily recorded in the app on GPS maps. There is also a premium tier which includes useful reports and summaries that golfers can use to understand their game in amazing detail. I didn't publish the code on GitHub because this is a production app with paying users.
 
 ## View The Project
 
@@ -12,4 +12,4 @@ A React Native mobile app for tracking your golf game. Every round, hole, and sh
 
 ## Preview
 
-![Map](https://github.com/mvrahas/gwo-foto/blob/master/public/assets/welcome/gwo-foto-map%401x.png)
+![Map](https://github.com/mvrahas/gwo-foto/blob/main/assets/preview.png)
