@@ -2,7 +2,7 @@
 
 ## About
 
-A react native mobile app for tracking your golf game. Every round, hole, and shot can be easily recorded in the app on GPS maps. There is also a premium tier which includes useful reports and summaries that golfers can use to understand their game in amazing detail.
+A React Native mobile app for tracking your golf game. Every round, hole, and shot can be easily recorded in the app on GPS maps. There is also a premium tier which includes useful reports and summaries that golfers can use to understand their game in amazing detail.
 
 ## View The Project
 
