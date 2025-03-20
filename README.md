@@ -6,9 +6,7 @@ A React Native mobile app for tracking your golf game. Every round, hole, and sh
 
 ## View The Project
 
-[Download for iOS](https://apps.apple.com/us/app/links-golf-tracker/id1576982605)
-
-*Not available for Android
+The project is no longer active and can't be viewed right now.
 
 ## Preview
 
